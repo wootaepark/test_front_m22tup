@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy":"https://port-0-m22tup-back-3prof2lllf7r2ko.sel3.cloudtype.app/",
   "eslintConfig": {
     "extends": [
       "react-app",
